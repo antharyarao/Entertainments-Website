@@ -1,0 +1,40 @@
+.collapse{
+    position: absolute;
+    right: 20px;
+}
+.carousel-inner img{
+    padding: 10px;
+    height: 100vh;
+    width: 100vw;
+    border-radius: 70px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin: 20px;
+    font-size:3rem;
+    font-family: cursive;
+}
+.cont{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    margin: 20px;
+}
+.contact{
+    height: 100px;
+    width: 100vw;
+    background-color: rgb(54, 54, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact img{
+    height: 30px;
+    width: 30px;
+    margin: 20px;
+}
